@@ -5,7 +5,6 @@ Version 3 of the **Basic Probe Driver**:
 This driver can be used to drive a variety of SCA/FI probes from the Moku-GO
 
 For now, if you know how to read the included register map you can try it out yourself! 
----
 
 ## Platform & Configuration
 
